@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 [![PiSaucer's github stats](https://github-readme-stats.vercel.app/api?username=PiSaucer&show_icons=true)](https://github.com/PiSaucer?tab=repositories)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PiSaucer&hide=mcfunction)](https://github.com/PiSaucer?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PiSaucer&hide=mcfunction,tex)](https://github.com/PiSaucer?tab=repositories)
