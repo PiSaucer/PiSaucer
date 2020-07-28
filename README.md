@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![PiSaucer's github stats](https://github-readme-stats.vercel.app/api?username=PiSaucer&show_icons=true)
+[![PiSaucer's github stats](https://github-readme-stats.vercel.app/api?username=PiSaucer&show_icons=true)](https://github.com/PiSaucer?tab=repositories)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PiSaucer&hide=mcfunction)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PiSaucer&hide=mcfunction)](https://github.com/PiSaucer?tab=repositories)
