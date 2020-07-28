@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 -->
 
 ![PiSaucer's github stats](https://github-readme-stats.vercel.app/api?username=PiSaucer&show_icons=true)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PiSaucer&hide=mcfunction)](https://github.com/anuraghazra/github-readme-stats)
