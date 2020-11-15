@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [book-c-plus-plus](https://github.com/PiSaucer/book-c-plus-plus)
+- 🔭 I’m currently working on [Universal Shader Pack For New Caledonia](https://github.com/NewCaledoniaDevTeam/BETA_UniversalShaderPack)
 - 🌱 I’m currently learning c plus plus and node.js
 
 [![PiSaucer's github stats](https://github-readme-stats.vercel.app/api?username=PiSaucer&show_icons=true)](https://github.com/PiSaucer?tab=repositories)
