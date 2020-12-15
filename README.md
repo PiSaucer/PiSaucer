@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [Universal Shader Pack For New Caledonia](https://github.com/NewCaledoniaDevTeam/BETA_UniversalShaderPack) and [Mountain Top's Guide](https://newcaledoniadevteam.github.io/MountainsGuide/)
 - 🌱 I’m currently learning c plus plus and node.js
 
-![GitHub metrics](https://metrics.lecoq.io/PiSaucer?base.activity=0&base.community=0&pagespeed=1&languages=1&isocalendar=1&pagespeed.detailed=true&isocalendar.duration=half-year)
+[![GitHub metrics](https://metrics.lecoq.io/PiSaucer?base.activity=0&base.community=0&pagespeed=1&languages=1&isocalendar=1&pagespeed.detailed=true&isocalendar.duration=half-year)](https://github.com/PiSaucer?tab=repositories)
