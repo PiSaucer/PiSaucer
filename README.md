@@ -13,10 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [Universal Shader Pack For New Caledonia](https://github.com/NewCaledoniaDevTeam/BETA_UniversalShaderPack)
+- 🔭 I’m currently working on [Universal Shader Pack For New Caledonia](https://github.com/NewCaledoniaDevTeam/BETA_UniversalShaderPack) and [Mountain Top's Guide](https://newcaledoniadevteam.github.io/MountainsGuide/)
 - 🌱 I’m currently learning c plus plus and node.js
 
-[![PiSaucer's github stats](https://github-readme-stats.vercel.app/api?username=PiSaucer&show_icons=true)](https://github.com/PiSaucer?tab=repositories)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PiSaucer&hide=mcfunction,tex)](https://github.com/PiSaucer?tab=repositories)
+![GitHub metrics](https://metrics.lecoq.io/PiSaucer?base.activity=0&base.community=0&pagespeed=1&languages=1&isocalendar=1&pagespeed.detailed=true&isocalendar.duration=half-year)
