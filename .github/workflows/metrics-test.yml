@@ -1,28 +1,135 @@
 # This is a basic workflow to help you get started with Actions
 
 name: metrics-test
-
-# Controls when the action will run. 
-on:
-  # Triggers the workflow on push or pull request events but only for the master branch
-  push:
-    branches: [ master ]
-  pull_request:
-    branches: [ master ]
-
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
-
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
-jobs:
-  # This workflow contains a single job called "build"
-  build:
-    # The type of runner that the job will run on
-    runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
-    steps:
-      # Runs a set of commands using the runners shell
-      - name: GitHub metrics as SVG image
-        uses: lowlighter/metrics@latest
+# You may pin to the exact commit or the version.
+  # uses: lowlighter/metrics@db876713ebb058ea669c16708e1a6142ae50d5e9
+  uses: lowlighter/metrics@v3.1
+  with:
+    # GitHub Personal Token
+    token: bb5767ed2d6dcd38ce2b69f078f6b7de83dde6a5
+    # Token used for commits
+    committer_token: # optional, default is 
+    # GitHub username
+    user: PiSaucer 
+    # optional, default is 
+    # Path of SVG image output
+    filename: # optional, default is github-metrics.svg
+    # Optimize SVG image
+    optimize: # optional, default is true
+    # Timezone used by metrics
+    config_timezone: # optional, default is 
+    # Output image type
+    config_output: # optional, default is svg
+    # Enable or disable SVG animations
+    config_animations: # optional, default is true
+    # Configure bottom padding
+    config_padding: # optional, default is 6%
+    # Number of repositories to use
+    repositories: # optional, default is 100
+    # Template to use
+    template: # optional, default is classic
+    # Additional query parameters
+    query: # optional, default is {}
+    # Base content to include in metrics
+    base: # optional, default is header, activity, community, repositories, metadata
+    # Enable Google PageSpeed metrics for user's website
+    plugin_pagespeed: # optional
+    # Website to audit with PageSpeed
+    plugin_pagespeed_url: # optional, default is 
+    # Display additional PageSpeed metrics
+    plugin_pagespeed_detailed: # optional
+    # Display a screenshot of your website
+    plugin_pagespeed_screenshot: # optional
+    # Pagespeed personal token
+    plugin_pagespeed_token: # optional, default is 
+    # Enable lines of code metrics
+    plugin_lines: # optional
+    # Enable repositories traffic metrics
+    plugin_traffic: # optional
+    # Enable coding habits metrics
+    plugin_habits: # optional
+    # Number of activity events to use
+    plugin_habits_from: # optional, default is 200
+    # Number of days to use
+    plugin_habits_days: # optional, default is 14
+    # Display habits facts based on recent activity
+    plugin_habits_facts: # optional, default is true
+    # Display recent coding activity charts
+    plugin_habits_charts: # optional
+    # Enable most used languages metrics
+    plugin_languages: # optional
+    # List of ignored languages
+    plugin_languages_ignored: # optional, default is 
+    # List of skipped repositories
+    plugin_languages_skipped: # optional, default is 
+    # Enable owned repositories issues and pull requests metrics
+    plugin_followup: # optional
+    # Enable music plugin
+    plugin_music: # optional
+    # Name of the music provider you're using
+    plugin_music_provider: # optional, default is 
+    # Music provider personal token
+    plugin_music_token: # optional, default is 
+    # Use "recent" to display recently played music and "playlist" to display tracks randomly from a given playlist
+    plugin_music_mode: # optional, default is 
+    # Embed playlist url
+    plugin_music_playlist: # optional, default is 
+    # Number of tracks to display
+    plugin_music_limit: # optional, default is 4
+    # Enable recent posts display
+    plugin_posts: # optional
+    # Posts external source
+    plugin_posts_source: # optional, default is 
+    # Posts external source username
+    plugin_posts_user: # optional, default is 
+    # Number of posts to display
+    plugin_posts_limit: # optional, default is 4
+    # Display an isometric view of your commits calendar along with a few additional stats
+    plugin_isocalendar: # optional
+    # Set isometric calendar duration
+    plugin_isocalendar_duration: # optional, default is half-year
+    # Display gists metrics
+    plugin_gists: # optional
+    # Display starred topics
+    plugin_topics: # optional
+    # Display starred topics
+    plugin_topics_mode: # optional, default is starred
+    # Sorting method of starred topics
+    plugin_topics_sort: # optional, default is stars
+    # Number of starred topics to display
+    plugin_topics_limit: # optional, default is 
+    # Display active projects
+    plugin_projects: # optional
+    # List of repository project identifiers to disaplay
+    plugin_projects_repositories: # optional, default is 
+    # Number of active projects to display
+    plugin_projects_limit: # optional, default is 4
+    # Display recent tweets
+    plugin_tweets: # optional
+    # Twitter username
+    plugin_tweets_user: # optional, default is 
+    # Twitter bearer token
+    plugin_tweets_token: # optional, default is 
+    # Number of tweets to display
+    plugin_tweets_limit: # optional, default is 2
+    # Display recently starred repositories
+    plugin_stars: # optional
+    # Number of recently starred repositories to display
+    plugin_stars_limit: # optional, default is 4
+    # Display stargazers evolution over the last two weeks
+    plugin_stargazers: # optional
+    # Die on plugins errors
+    plugins_errors_fatal: # optional
+    # Enable debug logs
+    debug: # optional
+    # Verify SVG after generation
+    verify: # optional
+    # Debug flags
+    debug_flags: # optional, default is 
+    # Enable dry-run
+    dryrun: # optional
+    # Use mocked data instead of real APIs
+    use_mocked_data: # optional
+    # Use pre-built image from GitHub registry
+    use_prebuilt_image: # optional, default is 
 
