@@ -1,4 +1,5 @@
-name: Metrics
+name: Metrics 
+#GitHub metrics as SVG image
 on:
   # Schedule updates
   schedule: [{cron: "0 * * * *"}]
@@ -16,3 +17,4 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
           committer_token: ${{ secrets.GITHUB_TOKEN }}
+          plugin_isocalendar: true
