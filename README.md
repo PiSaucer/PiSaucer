@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 https://metrics.lecoq.io/PiSaucer?base.activity=0&base.community=0&pagespeed=1&languages=1&isocalendar=1&pagespeed.detailed=true&isocalendar.duration=half-year
 -->
 
-- 🔭 I’m currently working on [Universal Shader Pack For New Caledonia](https://github.com/NewCaledoniaDevTeam/BETA_UniversalShaderPack) and [Mountain Top's Guide](https://newcaledoniadevteam.github.io/MountainsGuide/)
-- 🌱 I’m currently learning c plus plus and node.js
+- 🔭 I’m currently working on [Mountain Top's Guide](https://newcaledoniadevteam.github.io/MountainsGuide/)
+- 😄 Pronouns: he/gim
+- 🌱 I’m currently learning everything
 
 [![GitHub metrics](github-metrics.svg)](https://github.com/PiSaucer?tab=repositories)
