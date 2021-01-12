@@ -16,7 +16,7 @@ https://metrics.lecoq.io/PiSaucer?base.activity=0&base.community=0&pagespeed=1&l
 -->
 
 - 🔭 I’m currently working on [Mountain Top's Guide](https://newcaledoniadevteam.github.io/MountainsGuide/)
-- 😄 Pronouns: he/gim
+- 😄 Pronouns: he/him
 - 🌱 I’m currently learning everything
 
 [![GitHub metrics](github-metrics.svg)](https://github.com/PiSaucer?tab=repositories)
