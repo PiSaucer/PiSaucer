@@ -17,6 +17,8 @@ https://metrics.lecoq.io/PiSaucer?base.activity=0&base.community=0&pagespeed=1&l
 
 - 🔭 I’m currently working on [Mountain Top's Guide](https://newcaledoniadevteam.github.io/MountainsGuide/) and [boredhtml](https://github.com/PiSaucer/boredhtml)
 - 😄 Pronouns: he/him
-- 🌱 I’m currently learning everything
+- 🌱 I’m currently learning Java, Javascript, and C++
+- 🤔 I’m looking for help with improved CSS skills
+- 👯 I’m looking to collaborate on [VanillaTweaksBedrock](https://github.com/PiSaucer/VanillaTweaksBedrock) with the CSS
 
 [![GitHub metrics](github-metrics.svg)](https://github.com/PiSaucer?tab=repositories)
