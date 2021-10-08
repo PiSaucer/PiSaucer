@@ -1451,7 +1451,7 @@
                     <section>
                         <h2 class="field">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/></svg>
-          42 Repositories (including 11 forks)
+          41 Repositories (including 10 forks)
         </h2>
                         <div class="row">
                             <section>
@@ -1511,14 +1511,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="239.63245989469502" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="239.63245989469502" y="0" width="162.5947600709777" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="402.22721996567276" y="0" width="43.184867164713275" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="445.412087130386" y="0" width="11.200446263349747" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="456.6125333937357" y="0" width="1.527350419466367" height="8" fill="#083fa1"/>
-                    <rect mask="url(#languages-bar)" x="458.13988381320206" y="0" width="0.8633230884473206" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="459.0032069016494" y="0" width="0.5230699790968404" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="459.5262768807462" y="0" width="0.4737231192537237" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="239.59008321072702" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="239.59008321072702" y="0" width="162.62594757371994" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="402.216030784447" y="0" width="43.193231022305554" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="445.40926180675257" y="0" width="11.202615517157088" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="456.61187732390965" y="0" width="1.527646230064862" height="8" fill="#083fa1"/>
+                    <rect mask="url(#languages-bar)" x="458.1395235539745" y="0" width="0.8634902931151123" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="459.0030138470896" y="0" width="0.5231712850195673" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="459.52618513210916" y="0" width="0.4738148678908677" height="8" fill="#178600"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1528,7 +1528,7 @@
                       JavaScript
                     </div>
                             <small>
-                                <div>52.09%</div>
+                                <div>52.08%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1575,7 +1575,7 @@
                       CSS
                     </div>
                             <small>
-                                <div>2.43%</div>
+                                <div>2.44%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2693,7 +2693,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="27.357499999999998 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="27.0475 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2716,7 +2716,7 @@
                   
                   
                 </div>
-                                <div class="text">Repositories have been deployed 853 times</div>
+                                <div class="text">Repositories have been deployed 849 times</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -2729,7 +2729,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="3.875 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2756,7 +2756,7 @@
                   
                   
                 </div>
-                                <div class="text">Forked 11 public repositories</div>
+                                <div class="text">Forked 10 public repositories</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2769,7 +2769,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="87.83333333333333 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="82.66666666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2795,12 +2795,12 @@
                   <span class="prefix">Great</span> developer
                   
                     <span class="gh">
-                      ranked 672k out of 78m users
+                      ranked 702k out of 78m users
                     </span>
                   
                   
                 </div>
-                                <div class="text">Published 37 public repositories</div>
+                                <div class="text">Published 36 public repositories</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2845,7 +2845,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 07/10/2021, 22:10 (timezone America/Chicago) with lowlighter/metrics@3.14.0</span>
+                <span>Last updated 07/10/2021, 23:12 (timezone America/Chicago) with lowlighter/metrics@3.14.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
