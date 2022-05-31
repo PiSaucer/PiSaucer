@@ -21,10 +21,9 @@ https://metrics.lecoq.io/PiSaucer?base.activity=0&base.community=0&pagespeed=1&l
 - 🌱 I’m currently learning Java, Javascript, and C++
 - 🤔 I’m looking for help with improved CSS skills
 - 👯 I’m looking to collaborate on [VanillaTweaksBedrock](https://github.com/PiSaucer/VanillaTweaksBedrock) with the CSS
+- 🔭 I’m currently working on [VanillaTweaksBedrock](https://github.com/PiSaucer/VanillaTweaksBedrock)
 - -->
 
 # PiSaucer
-
-- 🔭 I’m currently working on [VanillaTweaksBedrock](https://github.com/PiSaucer/VanillaTweaksBedrock)
 
 [![GitHub metrics](github-metrics.svg)](https://github.com/PiSaucer?tab=repositories)
