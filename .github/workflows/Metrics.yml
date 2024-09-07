@@ -21,7 +21,7 @@ jobs:
           config_timezone: America/New_York
           plugin_isocalendar: true
           plugin_languages: true
-          plugin_languages_ignored: Tex, PHP, Tcl, Batchfile, mcfunction, Mathematica, rtf
+          plugin_languages_ignored: PHP, Tcl, Batchfile, mcfunction, Mathematica, rtf
           plugin_languages_details: percentage
           plugin_introduction: yes
           plugin_introduction_title: yes
