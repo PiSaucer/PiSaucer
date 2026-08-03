@@ -27,3 +27,7 @@ https://metrics.lecoq.io/PiSaucer?base.activity=0&base.community=0&pagespeed=1&l
 # PiSaucer
 
 [![GitHub metrics](github-metrics.svg)](https://github.com/PiSaucer?tab=repositories)
+
+## Pinned Repositories
+
+[![Pinned repositories](github-pinned.svg)](https://github.com/PiSaucer?tab=repositories)
