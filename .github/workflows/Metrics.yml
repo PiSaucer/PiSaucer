@@ -20,7 +20,7 @@ jobs:
           filename: github-metrics.svg
           base: header, activity, community, repositories, metadata
           config_timezone: America/New_York
-          plugin_isocalendar: yes
+          plugin_isocalendar: true
           plugin_isocalendar_duration: full-year
           plugin_languages: true
           plugin_languages_ignored: PHP, Tcl, Batchfile, mcfunction, Mathematica, rtf
@@ -28,3 +28,5 @@ jobs:
           plugin_introduction: true
           plugin_introduction_title: true
           repositories_forks: true
+          plugin_repositories: true
+          plugin_repositories_pinned: 6
